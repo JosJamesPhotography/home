@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="josjamesphotography.com" resolutions="1x" timestamp="1636580083795">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="josjamesphotography.com" resolutions="1x" timestamp="1636584002382">
   <folder name="css">
     <file name="site_global.css" crc="466122166"/>
-    <file name="master_a-master.css" crc="337505371" ref="index"/>
-    <file name="index.css" crc="509441786" ref="index"/>
+    <file name="master_a-master.css" crc="3833068447" ref="index"/>
+    <file name="index.css" crc="4169484102" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -44,6 +44,12 @@
     <file name="twitter_poster_u854.png" crc="4063106456" ref="index"/>
     <file name="twitter2.svg" crc="365477351" ref="index"/>
     <file name="twitter_poster_u860.png" crc="4107387778" ref="index"/>
+    <file name="jos_1898.jpg" crc="3791343686" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jos_1525-02.jpg" crc="4183691125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="351983207" seo="true" mt="1636579623192" redirect="true"/>
+  <file name="index.html" crc="4282226645" seo="true" mt="1636583774461" redirect="true"/>
 </manifest>

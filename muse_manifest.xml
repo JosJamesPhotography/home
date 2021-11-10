@@ -1,0 +1,49 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="josjamesphotography.com" resolutions="1x" timestamp="1636580083795">
+  <folder name="css">
+    <file name="site_global.css" crc="466122166"/>
+    <file name="master_a-master.css" crc="337505371" ref="index"/>
+    <file name="index.css" crc="509441786" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="jos_1911-02.jpg" crc="410495963" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="jos_1357-02.jpg" crc="184658649" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="facebook.svg" crc="119986491" ref="index"/>
+    <file name="facebook_poster_u777.png" crc="484777890" ref="index"/>
+    <file name="facebook2.svg" crc="496919157" ref="index"/>
+    <file name="facebook_poster_u783.png" crc="4031857307" ref="index"/>
+    <file name="instagram.svg" crc="327578462" ref="index"/>
+    <file name="instagram_poster_u802.png" crc="4011683441" ref="index"/>
+    <file name="instagram2.svg" crc="3775047466" ref="index"/>
+    <file name="instagram_poster_u821.png" crc="4176705903" ref="index"/>
+    <file name="linked-in.svg" crc="4270269371" ref="index"/>
+    <file name="linked-in_poster_u837.png" crc="336300724" ref="index"/>
+    <file name="linked-in2.svg" crc="3801546911" ref="index"/>
+    <file name="linked-in_poster_u843.png" crc="494157248" ref="index"/>
+    <file name="twitter.svg" crc="286679046" ref="index"/>
+    <file name="twitter_poster_u854.png" crc="4063106456" ref="index"/>
+    <file name="twitter2.svg" crc="365477351" ref="index"/>
+    <file name="twitter_poster_u860.png" crc="4107387778" ref="index"/>
+  </folder>
+  <file name="index.html" crc="351983207" seo="true" mt="1636579623192" redirect="true"/>
+</manifest>
